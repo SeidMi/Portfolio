@@ -1,5 +1,20 @@
 # Michel S.  
-### *Aspiring Data Analyst | Business Economist (Business Informatics) | Experience in Leadership, Communication & Process Optimization*   
+> *Aspiring Data Analyst | Business Economist (Business Informatics) | Experience in Leadership, Communication & Process Optimization*   
+
+---
+### Projects
+
+[Datenbank Arbeitssicherheit](/GITHUB/Projects/DB_Arbeitssicherheit/README.md)
+> SQL Database built in MS Access to manage safety standards at the workplace
+
+<!-- [Datenbank Artikelpedia](/Projects/DB%20Artikelpedia/README.md)
+> Database ...  -->
+
+[Tableau - Learning](/GITHUB/Tableau/)
+[Excel - Learning](/GITHUB/Excel/)
+
+---
+
 ### Education  
 **Bachelor Professional, Business Economy, specialized in Business Informatics**  
 *Fachschule für Wirtschaft BK-Deutz*  
@@ -13,15 +28,6 @@ Feb. 2017–Jan. 2021
 Aug. 2021–Apr. 2024  
 
 **Office Manager**
-*Training and assisting 7 individuals in an office-environment with the ultimate goal of supporting work integration and transition into the general labor market.*
+*Training and assisting 7 individuals in an office-environment with the ultimate goal of supporting work integration and transition into the general labor market.*  
 Jan. 2018–Aug. 2021
 
----
-
-### Projects
-
-[Datenbank Arbeitssicherheit](/Projects/DB%20Arbeitssicherheit/README.md)
-> Database to manage a successful workplace safety by returning important due dates
-
-[Datenbank Artikelpedia](/Projects/DB%20Artikelpedia/README.md)
-> Database ... 

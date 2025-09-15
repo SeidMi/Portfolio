@@ -1,5 +1,6 @@
 title: Michel S.
-#logo:
-#description: text below image
+logo: /images/foto.jpg
+logo_width: 100
+description: Aspiring Data Analyst | Business Economist (Business Informatics) | Experience in Leadership, Communication & Process Optimization
 #show_downloads: true
 theme: jekyll-theme-minimal
