@@ -1,5 +1,5 @@
 # Michel S.  
-## *Aspiring Data Analyst | Business Economist (Business Informatics) | Experience in Leadership, Communication & Process Optimization*   
+### *Aspiring Data Analyst | Business Economist (Business Informatics) | Experience in Leadership, Communication & Process Optimization*   
 ### Education  
 **Bachelor Professional, Business Economy, specialized in Business Informatics**  
 *Fachschule für Wirtschaft BK-Deutz*  
