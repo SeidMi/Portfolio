@@ -1,6 +1,6 @@
 # Michel S.  
 > *Aspiring Data Analyst | Business Economist (Business Informatics) | Experience in Leadership, Communication & Process Optimization*   
-
+> Currently diving into the world of data
 ---
 ### Projects
 
@@ -10,8 +10,8 @@
 <!-- [Datenbank Artikelpedia](/Projects/DB%20Artikelpedia/README.md)
 > Database ...  -->
 
-[Tableau - Learning](/GITHUB/Tableau/)
-[Excel - Learning](/GITHUB/Excel/)
+[Tableau - Learning](/GITHUB/Tableau/)  
+[Excel - Learning](/GITHUB/Excel/)  
 
 ---
 
