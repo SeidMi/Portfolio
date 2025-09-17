@@ -1,4 +1,4 @@
-# Aspriring Data Analyst
+# Aspiring Data Analyst
 
 #### Business Economist specialized in Business Informatics, currently expanding my skills in Data Analytics.
 
@@ -15,7 +15,7 @@ SQL Database built in MS Access to manage safety standards at the workplace
 
 ## Education  
 - IBM Data Analyst Professional Certificate | (_Aug. 2025 - Now_)  
-- Bachelor Professional | Business Economy (Business Informatics) | *Fachschule für Wirtschaft BK-Deutz* (_Jan. 2021_)  
+- Bachelor Professional | Business Economy (Business Informatics) | *Fachschule für Wirtschaft BK-Deutz* | (_Jan. 2021_)  
 
 
 
